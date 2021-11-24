@@ -1,1 +1,4 @@
-# bookstore Aquí se da una explicación del proyecto. *
+Actividad de Bloque 7
+SSDD
+Josué Barrales Gálvez
+Diana Michelle Pérez Rodríguez
